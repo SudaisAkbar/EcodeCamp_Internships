@@ -1,0 +1,25 @@
+ body {
+            background-color: #f8f9fa;
+            color: #333;
+            font-family: Arial, sans-serif;
+        }
+
+        .spinner {
+            display: none;
+        }
+
+        .error-message {
+            color: red;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .book-card {
+            margin-bottom: 20px;
+        }
+
+        .book-card img {
+            height: 100%;
+            object-fit: cover;
+        }
+ 
